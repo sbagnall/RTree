@@ -1,0 +1,9 @@
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.csprojAssemblyReference.cache
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.csproj.CoreCompileInputs.cache
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.AssemblyInfoInputs.cache
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.AssemblyInfo.cs
+D:\Share\Code\RTree\bin\Debug\netstandard2.0\RTree.deps.json
+D:\Share\Code\RTree\bin\Debug\netstandard2.0\RTree.dll
+D:\Share\Code\RTree\bin\Debug\netstandard2.0\RTree.pdb
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.dll
+D:\Share\Code\RTree\obj\Debug\netstandard2.0\RTree.pdb
